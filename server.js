@@ -1,7 +1,7 @@
 import express from 'express';
 
 const app = express();
-const PORT = 4000;
+const PORT = 5555;
 
 // Root endpoint - returns Hello World
 app.get('/', (req, res) => {
